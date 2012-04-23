@@ -1,2 +1,1 @@
-Test
-====
+This repository has all the scripts that I play with.
